@@ -15,4 +15,6 @@ Dyndns service has changed the service term, sending annoying email periodically
 The script is used with cronjobs or *.wanup scrips in dd-wrt to automatically do web
 logins to keep the hostname active
 
-perl-www-mechanize package is required to be installed in optware
+
+perl-www-mechanize and perl-crypt-ssleay package is required to be installed from optware
+in order to run this script.
